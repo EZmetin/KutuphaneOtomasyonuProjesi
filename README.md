@@ -1,0 +1,2 @@
+# KutuphaneOtomasyonuProjesi
+KutuphaneOtomasyonu
